@@ -72,8 +72,8 @@ Even thought I managed to implement the image overlay effect I still need to be 
 
 ### Useful resources
 
-- <a href="https://www.w3schools.com/howto/howto_css_image_overlay_title.asp" target="_blank">Image Hover</a> - This helped me understand and how to implement image overlay on hover.
-- <a href="https://stackoverflow.com/questions/21086385/how-to-make-in-css-an-overlay-over-an-image" target="_blank">Image Hover</a>- This helped me understand and how to implement image overlay on hover
+- <a href="https://www.w3schools.com/howto/howto_css_image_overlay_title.asp" target="_blank">Image Hover (W3School)</a> - This helped me understand and how to implement image overlay on hover.
+- <a href="https://stackoverflow.com/questions/21086385/how-to-make-in-css-an-overlay-over-an-image" target="_blank">Image Hover (Stackoverflow)</a>- This helped me understand and how to implement image overlay on hover
 
 ## Author
 
