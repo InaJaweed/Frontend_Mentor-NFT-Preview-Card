@@ -70,6 +70,8 @@ The main thing I learned from this challenge was how to implement image overlay 
 
 Even thought I managed to implement the image overlay effect I still need to be more confident on more challenges similar to this as it was my first time so I will need to practice more. I also need to practice more on my CSS as it feels like im using more css selectors than needed to style my page and components.
 
+I also need to learn how to add and implement hover effect to mobile devices.
+
 ### Useful resources
 
 - <a href="https://www.w3schools.com/howto/howto_css_image_overlay_title.asp" target="_blank">Image Hover (W3School)</a> - This helped me understand and how to implement image overlay on hover.
