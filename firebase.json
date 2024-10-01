@@ -1,0 +1,7 @@
+{
+	"hosting": {
+		"site": "frontend-mentor-nft-preview-card-711bb",
+		"public": ".",
+		"ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+	}
+}
